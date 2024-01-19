@@ -2,7 +2,7 @@
 /* Usar o Google Fonts para encontrar diferentes tipos de fontes! */
 
 :root {
-    --cor-primaria: #222831 /*#000000*/;
+    --cor-primaria: green /*#222831*/ /*#000000*/;
     --cor-secundaria: #EEEEEE/*#F6F6F6*/;
     --cor-terciaria: #00ADB5 /*#22D4FD*/;
     --cor-hover: #393E46 /*#272727*/;
