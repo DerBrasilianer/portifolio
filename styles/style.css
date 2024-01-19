@@ -142,10 +142,6 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
-
-    .apresentacao__links {
-        gap: 40px;
-    }
 }
 
 /* É uma boa prática sempre apresentar as classes no documento CSS na mesma ordem na qual elas aparecem no documento HTML */
